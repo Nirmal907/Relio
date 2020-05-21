@@ -1,0 +1,4 @@
+venv
+media
+shop/static
+shop/__pycache__/models.cpython-37.pyc
